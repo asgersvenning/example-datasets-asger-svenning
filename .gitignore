@@ -171,3 +171,5 @@ __marimo__/
 # MacOS specific files
 .DS_Store
 ._*
+
+tmp*
