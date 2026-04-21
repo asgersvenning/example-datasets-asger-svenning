@@ -16,20 +16,20 @@
 
 | <br>**Dataset**<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | <br>**Status**<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | <br>**Example Image**<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
 | ---: | :---: | :---: |
-| [**Mothbox**](/datasets/Mothbox) | 🟡 Almost (4/5) | _No image tag found_ |
+| [**Mothbox**](/datasets/Mothbox) | 🟠 Partial (4/13) | <img src="datasets/Mothbox/media/Hoya_408m_calmoBarbo_2025-01-26/2025-01-26/patches/calmoBarbo_2025_01_27__04_53_06_HDR0_3_Mothbot_yolo11m_4500_imgsz1600_b1_2024-01-18.pt.jpg" height="150"> |
 | [**amber**](/datasets/amber) | 🟡 Almost (3/5) | <img src="datasets/amber/media/raw_images/20241102032319-snapshot.jpg" height="150"> |
 | [**antenna**](/datasets/antenna) | 🟠 Partial (2/5) | _No image tag found_ |
-| [**diopsis**](/datasets/diopsis) | 🟡 Almost (4/5) | _No image tag found_ |
+| [**diopsis**](/datasets/diopsis) | 🟡 Almost (4/5) | <img src="datasets/diopsis/raw-data/diopsis_soortherkenning_AI_231_2022_08_05_00_30_44.png" height="150"> |
 | [**flatbug**](/datasets/flatbug) | 🟡 Almost (3/5) | <img src="datasets/flatbug/raw-data/ALUS/Araneae_Unknown_2020_11_10_4723.jpg" height="150"> |
-| [**flower_visitors**](/datasets/flower_visitors) | 🟡 Almost (4/5) | <img src="datasets/flower_visitors/media/raw/2021-08-11_Achillea-millefolium-bs-01_IMG_20210811_114248.jpg" height="150"> |
+| [**flower_visitors**](/datasets/flower_visitors) | 🟢 Success (5/5) | <img src="datasets/flower_visitors/media/raw/2021-08-11_Achillea-millefolium-bs-01_IMG_20210811_114248.jpg" height="150"> |
 | [**ias**](/datasets/ias) | 🟡 Almost (3/5) | <img src="datasets/ias/raw-data/20250613022959-snapshot.jpg" height="150"> |
 | [**insect-detect**](/datasets/insect-detect) | 🔴 Failed (1/5) | <img src="datasets/insect-detect/raw/data/2026-04-16/2026-04-16_18-38-26/insdet-cam01_2026-04-16_18-38-41-142032.jpg" height="150"> |
 | [**lepmon**](/datasets/lepmon) | 🟡 Almost (4/5) | <img src="datasets/lepmon/media/Lepmon%23SN010030_TH_J_2025-07-03_T_0308.jpg" height="150"> |
 | [**minimon**](/datasets/minimon) | 🟡 Almost (3/5) | <img src="datasets/minimon/media/E41990/20250614/E41990_20250614094103_0105_012989.jpg" height="150"> |
-| [**plant-pollinator-interactions**](/datasets/plant-pollinator-interactions) | 🟡 Almost (4/5) | <img src="datasets/plant-pollinator-interactions/media/5mp_300521_10_18_30_696493.jpg" height="150"> |
+| [**plant-pollinator-interactions**](/datasets/plant-pollinator-interactions) | 🟢 Success (5/5) | <img src="datasets/plant-pollinator-interactions/media/5mp_300521_10_18_30_696493.jpg" height="150"> |
 | [**rangex**](/datasets/rangex) | 🟢 Success (5/5) | <img src="datasets/rangex/media/HE22_01_83_2037_2.jpg" height="150"> |
 
-<!-- Last updated: 2026-04-21 14:13:49 UTC -->
+<!-- Last updated: 2026-04-21 21:35:26 UTC -->
 <!-- END: DATASET PROGRESS TABLE -->
 ---
 
